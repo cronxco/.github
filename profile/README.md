@@ -1,6 +1,6 @@
-## Well hello there 👋
+# 👋 Hi, we're CronxCo
 
-We're CronxCo - building data-driven insights into the world around us.
+Hello world, we're CronxCo - building data-driven insights into the world around us, right from the heart of South London (yes, all the best places have trams!)
 
 Do say hi!
 
